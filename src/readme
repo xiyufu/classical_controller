@@ -1,1 +1,5 @@
 Source code of this project. It uses some external libraries that is included in the library folder.
+There are two source files, one is called robot.cpp and another is called robotPositionCotroller.cpp.
+The robot.cpp is for inverted pendulum and the robotPositionController.cpp is for position controller. 
+You can find velocity controller in both files.
+If you want to run the robotPostionController.cpp, please change the file name into robot.cpp.
